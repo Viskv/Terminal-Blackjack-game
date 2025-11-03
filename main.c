@@ -1,5 +1,5 @@
 /*
-     Title: C Project 2507
+     Title: C Project
      project: Blackjack Game
 */
 
@@ -48,4 +48,5 @@ int main(void)
 
      free_game(&state);
      return 0;
+
 }
